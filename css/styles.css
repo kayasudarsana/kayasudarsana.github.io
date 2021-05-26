@@ -1,10 +1,13 @@
 body {
     background-color: lightgoldenrodyellow;
-    color: lightpink;
+    color: #ffb6c1;
 }
 
 .profile-image {
+    display: block;
     width: 200px;
     height: auto;
-    float: right;
+    position: absolute;
+    top: 10px;
+    right: 10px;
 }
