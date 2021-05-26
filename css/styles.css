@@ -2,3 +2,9 @@ body {
     background-color: lightgoldenrodyellow;
     color: lightpink;
 }
+
+.profile-image {
+    width: 200px;
+    height: auto;
+    float: right;
+}
